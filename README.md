@@ -52,3 +52,7 @@
 ### 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prashantrathore8628@gmail.com)
+
+### 🐍 Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/Prashant-Rathore84/Prashant-Rathore84/output/github-contribution-grid-snake-dark.svg)
